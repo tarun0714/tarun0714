@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India 🚀 I love building impactful projects at the intersection of web development, AI, and data analytics.</h3>
 
 
-- 🔭 I’m currently working on [GreenCart – Grocery Delivery Web App (MERN Stack)](https://github.com/tarun0714/Grocery_Delivery_Website-Using-MERN-Stack-)
-
+- 🔭 I’m currently working on [Real-Time Collaborative Drawing Canvas]
 - 🌱 I’m currently learning **Next.js, Cloud Computing, and Advanced Data Analytics**
 
 - 👯 I’m looking to collaborate on **Open Source Projects, Hackathons, and AI + Web Development Ideas**
